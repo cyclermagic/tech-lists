@@ -20,7 +20,7 @@ https://mozilla.org/en-GB/firefox/  Privacy-focussed internet browser
 https://jetbrains.com/      Great Integrated Development Environment, DevOps tools and more
 https://matrix.org/         Open source, decentralised text and voice communication that can be self-hosted. Bridges to/ from many other social platforms
 https://parsec.app/         Impressive multi-platform remote desktop host and client. Linux hosting is not supported at time of writing
-https://www.nomachine.com/  Another good multi-platform remote desktop host and client
+https://nomachine.com/  Another good multi-platform remote desktop host and client
 
 # Programming Languages
 https://dev.java/           A high-level, cross-platform programming language with a vast community
