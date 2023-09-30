@@ -1,0 +1,12 @@
+# Public DNS Servers available free of charge.
+
+208.67.222.222  OpenDNS                 OK_XP       https://www.opendns.com/
+208.67.220.220  OpenDNS                 OK_XP       https://www.opendns.com/
+1.1.1.1         Cloudflare Primary      GOOD_XP     https://www.cloudflare.com/
+1.0.0.1         Cloudflare Secondary    GOOD_XP     https://www.cloudflare.com/
+103.86.96.100   NordVPN Primary         GOOD_XP     https://nordvpn.com/
+103.86.99.100   NordVPN Secondary       GOOD_XP     https://nordvpn.com/
+9.9.9.9         Quad9                               https://www.quad9.net/
+149.112.112.112 Quad9                               https://www.quad9.net/
+8.8.8.8         Google Primary DNS      GOOD_XP     https://google.com
+8.8.4.4         Google Secondary DNS    GOOD_XP     https://google.com

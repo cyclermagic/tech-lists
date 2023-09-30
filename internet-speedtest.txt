@@ -1,0 +1,4 @@
+https://speed.cloudflare.com/       CloudFlare      GOOD_XP     
+https://fast.com/                   Fast/ Netflix   BAD_XP      # Seen very different results to other Speed Tests
+http://www.dslreports.com/speedtest DLS Reports
+https://www.speedtest.net/          Ookla           OK_XP       # Browser version seems OK, but iOS version gave different results in 2020

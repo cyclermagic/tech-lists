@@ -1,0 +1,12 @@
+# Public NTP Servers available free of charge
+
+uk.pool.ntp.org     UK          Pool
+us.pool.ntp.org     USA         Pool
+fr.pool.ntp.org     France      Pool
+se.pool.ntp.org     Sweden      Pool
+nl.pool.ntp.org     Netherlands Pool
+gi.pool.ntp.org     Gibraltar   Pool
+ca.pool.ntp.org     Canada      Pool
+jp.pool.ntp.org     Japan       Pool
+chronos.csr.net     UK          Server   stratum 1
+ntp.my-inbox.co.uk  UK          Server   stratum 1
