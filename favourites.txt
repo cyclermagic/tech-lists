@@ -6,6 +6,7 @@ https://jumpcloud.com/      Active Directory alternative, as well as centralised
 https://protonvpn.com/      Privacy-focussed Virtual Private Network service
 https://mail.proton.me/     Privacy-focussed Email Hosting service
 https://cloudflare.com/     Global Infrastructure and Security platform with many free services
+https://airvpn.org/         Low cost Virtual Private Network with port forwarding
 
 # Devices
 https://bigblue-tech.com/   Effective solar panels and more
