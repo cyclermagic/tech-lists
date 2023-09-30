@@ -1,0 +1,25 @@
+# A list of my favourite technology-related things
+
+# Services
+https://starlink.com/       Satellite Internet Service Provider with 100mbps+ bandwidth and acceptable latency. Pricey but much less expensive than alternative satellite providers
+https://jumpcloud.com/      Active Directory alternative, as well as centralised user and device management, with an excellent free tier. Also provides an excellent Password Manager
+https://protonvpn.com/      Privacy-focussed Virtual Private Network service
+https://mail.proton.me/     Privacy-focussed Email Hosting service
+https://cloudflare.com/     Global Infrastructure and Security platform with many free services
+
+# Devices
+https://bigblue-tech.com/   Effective solar panels and more
+
+# Operating Systems
+https://debian.org/         Linux Operating System. Free, very stable and a massive number of packages
+https://pfsense.org/        Router/ Firewall Operating System with a free, community-supported version. Built atop FreeBSD
+https://ipfire.org/         Linux-based Firewall Operating System
+
+# Software
+https://jetbrains.com/      Great Integrated Development Environment, DevOps tools and more
+https://matrix.org/         Open source, decentralised text and voice communication that can be self-hosted. Bridges to/ from many other social platforms
+https://parsec.app/         Impressive multi-platform remote desktop host and client. Linux hosting is not supported at time of writing
+https://www.nomachine.com/  Another good multi-platform remote desktop host and client
+
+# Gaming
+https://github.com/ValveSoftware/Proton     Linux support for an ever-expanding list of Windows PC games
