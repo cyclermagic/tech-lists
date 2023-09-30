@@ -6,6 +6,7 @@ https://jumpcloud.com/      Active Directory alternative, as well as centralised
 https://protonvpn.com/      Privacy-focussed Virtual Private Network service
 https://mail.proton.me/     Privacy-focussed Email Hosting service
 https://cloudflare.com/     Global Infrastructure and Security platform with many free services
+https://airvpn.org/         Low cost Virtual Private Network with port forwarding
 
 # Devices
 https://bigblue-tech.com/   Effective solar panels and more
@@ -13,7 +14,6 @@ https://bigblue-tech.com/   Effective solar panels and more
 # Operating Systems
 https://debian.org/         Linux Operating System. Free, very stable and a massive number of packages
 https://pfsense.org/        Router/ Firewall Operating System with a free, community-supported version. Built atop FreeBSD
-https://ipfire.org/         Linux-based Firewall Operating System
 
 # Software
 https://mozilla.org/en-GB/firefox/  Privacy-focussed internet browser
