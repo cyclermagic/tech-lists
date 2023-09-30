@@ -14,7 +14,6 @@ https://bigblue-tech.com/   Effective solar panels and more
 # Operating Systems
 https://debian.org/         Linux Operating System. Free, very stable and a massive number of packages
 https://pfsense.org/        Router/ Firewall Operating System with a free, community-supported version. Built atop FreeBSD
-https://ipfire.org/         Linux-based Firewall Operating System
 
 # Software
 https://jetbrains.com/      Great Integrated Development Environment, DevOps tools and more
