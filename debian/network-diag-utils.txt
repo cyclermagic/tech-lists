@@ -1,0 +1,4 @@
+# Contains various commands useful for diagnosing network issues
+
+sudo netstat -s                                # Summarise host network statistics
+sudo netstat -su | grep errors                 # Summarise host UDP network statistics and filter for errors
